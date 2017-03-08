@@ -1,0 +1,1 @@
+{"buttons":[{"name":"ping browser","command":"ping bro.flyme.cn","type":"window"},{"name":"获取当前activity","command":"dumpsys activity top | grep ACTIVITY","type":"android"},{"name":"浏览器APK","command":"explorer Y:\\公用文件夹\\Broswer测试\\独立应用apk_androidm","type":"window"}]}
